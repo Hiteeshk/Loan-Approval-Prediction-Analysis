@@ -34,7 +34,7 @@ This project addresses a critical financial challenge: automating and improving 
 ---
 
 ## 📂 Repository Structure
-* `loan_prediction.ipynb`: End-to-end Python code from data ingestion to evaluation.
+* `set1_loan_prediction.ipynb`: End-to-end Python code from data ingestion to evaluation.
 * `loan_approval_dataset.csv`: The cleaned dataset used for this analysis.
 * `Machine_Learning_Application_and_Report.pdf`: Comprehensive report documenting methodology, statistical findings, and strategic recommendations.
 
